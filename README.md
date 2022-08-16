@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keerti</h1>
 <h3 align="center">A Developer and Designer learning something new daily</h3>
 
-<img align='right' src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="230">
+<img align='right' src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keertii&label=Profile%20views&color=0e75b6&style=flat" alt="keertii" /> </p>
 
