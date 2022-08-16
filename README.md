@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keerti</h1>
 <h3 align="center">A Developer and Designer learning something new daily</h3>
 
-<img align='right' src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
+<img align='right' src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b761180f87f658cc596304fb0d6ff2afbef5cf0a22b90&rid=giphy.gif&ct=g" width="230">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keertii&label=Profile%20views&color=0e75b6&style=flat" alt="keertii" /> </p>
 
